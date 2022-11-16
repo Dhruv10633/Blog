@@ -1,0 +1,50 @@
+body{
+    font-size: 18px;
+    padding: 10%;
+    padding-top: 2%;
+}
+
+h1{
+    text-align: center;
+}
+pre{
+    color: rgb(15, 232, 181);
+    font-size: 16px;
+    text-align: center;    
+}
+a{
+    color: rgb(15, 232, 181);
+}
+
+ul ul{
+    display:none;
+}
+
+ul>li:hover >ul{
+    display:block;
+}
+
+
+/* .l1{
+    display: none;;
+}
+ul li:hover .l1{
+    display:block;
+}
+
+
+.l2{
+    display: none;
+}
+.l1 li:hover .l2{
+    display:block;
+}
+
+.l3{
+    display: none;
+}
+.l2 li:hover .l3{
+    display:block;
+} */
+
+

@@ -1,0 +1,46 @@
+body{
+    font-size: 18px;
+    padding: 10%;
+    padding-top: 2%;
+}
+
+h1{
+    text-align: center;
+}
+pre{
+    color: rgb(15, 232, 181);
+    font-size: 16px;
+    text-align: center;    
+}
+a{
+    color: rgb(15, 232, 181);
+}
+
+table{
+    margin: auto;
+    width: 100%;
+    border: 6px outset darkgray;
+}
+
+#tr1{
+    background-color: lightgray;
+}
+
+tr:nth-of-type(2n){
+    background-color: lightgray;
+}
+
+td{
+    text-align: center;
+    padding: 20px;
+    border: 2px solid;
+}
+
+.hd{
+    font-weight: bold;
+}
+
+#lunch{
+    writing-mode: vertical-rl;
+    /* transform: rotate(90deg); not working */   
+}

@@ -1,0 +1,28 @@
+body{
+    font-size: 18px;
+    padding: 10%;
+    padding-top: 2%;
+}
+
+h1{
+    text-align: center;
+}
+pre{
+    color: rgb(15, 232, 181);
+    font-size: 16px;
+    text-align: center;    
+}
+a{
+    color: rgb(15, 232, 181);
+}
+
+table{
+    margin: auto;
+    width: 100%;
+    border: 6px outset darkgray;
+}
+
+td{
+    padding: 8px;
+    border: 2px solid;
+}
